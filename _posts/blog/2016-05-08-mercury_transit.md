@@ -12,13 +12,13 @@ transit again in December 2117 (the next time it will happen)!!
 If like most people, you don't have the patience to wait over 100 years, 
 you are in luck, as Mercury will perform the same feat tomorrow. 
 
-{% include image.html img="assets/venus_transit2.jpg" title="Viewing the Venus-Sun transit" 
+{% include image.html img="images/venus_transit2.jpg" title="Viewing the Venus-Sun transit" 
     width="40vw" caption="Viewing the Venus-Sun transit"%}
 
 Looking directly at the Sun is bad, so don't try that at home...or anywhere else. 
 For the Venus transit, I constructed this homemade Sun projector. 
 
-{% include image.html img="assets/venus_transit1.jpg" title="Venus transit viewing device" 
+{% include image.html img="images/venus_transit1.jpg" title="Venus transit viewing device" 
     width="40vw" caption="Venus transit viewing device"%}
 
 This contraption acted as a

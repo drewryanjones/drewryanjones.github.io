@@ -39,21 +39,11 @@ owner:
   name: Drew Ryan Jones
   avatar: profile1.jpg
   email: drjones604@gmail.com
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
-  stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
-  flickr: #username
-  tumblr: #username
-  pinterest: #username
-  weibo: #userid
   google:
-    plus: #username
     analytics:
-    verify:
+    verify: 3sz_JRNwEjVWPpoU02efmz_Wo5FDfR2rcUYZnSgsT6o
     ad-client:
     ad-slot:
   bing-verify:
+    
+google_site_verification: 3sz_JRNwEjVWPpoU02efmz_Wo5FDfR2rcUYZnSgsT6o

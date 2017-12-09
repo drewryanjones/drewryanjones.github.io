@@ -28,7 +28,7 @@ friendships.</p>
 </div>
 <div>
 <p>
-{% include image.html img="assets/wedding.jpg" title="Wedding Picture" width="80%" caption="Our Wedding" %}
+{% include image.html img="images/wedding.jpg" title="Wedding Picture" width="80%" caption="Our Wedding" %}
 </p>
 </div>
 
@@ -49,8 +49,8 @@ Here is a sampling of <a href="/travel">places we have been</a>.
 </p>
 </div>
 <div>
-{% include image.html img="assets/sparky.jpg" title="Sparky" width="75%" caption="Sparky" %}
+{% include image.html img="images/sparky.jpg" title="Sparky" width="75%" caption="Sparky" %}
 </div>
 <div>
-{% include image.html img="assets/harvey.jpg" title="Harvey" width="62%" caption="Harvey" %}
+{% include image.html img="images/harvey.jpg" title="Harvey" width="62%" caption="Harvey" %}
 </div>

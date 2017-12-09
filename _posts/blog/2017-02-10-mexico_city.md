@@ -10,7 +10,7 @@ This vibrant mega city has it all, and could keep you busy for weeks.
 Beautiful colonial architecture, spectacular and abundant food options, world-class museums, 
 and a unique cosmopolitan culture.
 
-{% include image.html img="assets/2016_mx_historic_center.jpg" title="Historical Center of the City" 
+{% include image.html img="images/2016_mx_historic_center.jpg" title="Historical Center of the City" 
     width="70vw" caption="The historical center of the city" %}
 
 I hope this post will inspire you, and lead you along a sublime path of street tacos, mescal bars, 
@@ -24,7 +24,7 @@ located in the historical center. This converted 17th century palace,
 also houses the Azul Historic&#243;, one of the neighborhood's 
 most acclaimed restaurants, in its central courtyard.
 
-{% include image.html img="assets/2016_mx_downtown_mural.jpg" 
+{% include image.html img="images/2016_mx_downtown_mural.jpg" 
     title="Mural in the courtyard of Hotel Downtown" 
     width="50vw" caption="Mural in the courtyard of Hotel Downtown" %}
 
@@ -46,7 +46,7 @@ Here we would load up a serving tray full of sweet cakes and pastries
 We had more than we could consume for about $3.00. We would then grab a coffee and have our 
 breakfast outside among the monumental and inspiring buildings and cathedrals.
 
-{% include image.html img="assets/2016_mx_pastelia_ideal.jpg" title="Pastries" 
+{% include image.html img="images/2016_mx_pastelia_ideal.jpg" title="Pastries" 
     width="50vw" caption="The pastries are to die for" %}
 
 It is estimated that there are over 1 million food stands in this city.
@@ -76,16 +76,11 @@ The Mercado de Cayoacan is a great place to visit after Casa Azul, and the food 
 Carne tostadas are typically recommended here, but I went rogue and instead relished in some 
 Chiles en Nogada and my gal enjoyed a magnificently flavored sopa.
 
-<div id="left">
-{% include image.html img="assets/2016_mx_dayofdead.jpg" title="Ash and dia de los muertos" 
+{% include image.html img="images/2016_mx_dayofdead.jpg" title="Ash and dia de los muertos" 
     width="40vw" caption="Ash downtown during Dia de los Muertos" %}
-</div>
-<div id="right">
-{% include image.html img="assets/2016_mx_chapultepec.jpg" title="Chapultepec" 
+{% include image.html img="images/2016_mx_chapultepec.jpg" title="Chapultepec" 
     width="40vw" caption="At Chapultepec castle" %}
-</div>
 
-<div id="body">
 Mexico City is beautiful, exciting, and has so much to offer. I have spent considerable time at 
 playas en Mexico, but the capitol is unlike the rest of the country, especially the beach resorts 
 most Americans are familiar. 
@@ -93,4 +88,3 @@ A cultural tour-de-force, it is more like Spain than it is many parts of the cou
 As I write this I am strongly tempted to return.
 Mexico City's charms are irresistible and too numerous 
 to be properly uncovered during a single trip. 
-</div>
