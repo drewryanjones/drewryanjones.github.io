@@ -11,7 +11,7 @@ Beautiful colonial architecture, spectacular and abundant food options, world-cl
 and a unique cosmopolitan culture.
 
 {% include image.html img="images/2016_mx_historic_center.jpg" title="Historical Center of the City" 
-    width="70vw" caption="The historical center of the city" %}
+    height="40vh" caption="The historical center of the city" %}
 
 I hope this post will inspire you, and lead you along a sublime path of street tacos, mescal bars, 
 and transcendent mole.
@@ -26,7 +26,7 @@ most acclaimed restaurants, in its central courtyard.
 
 {% include image.html img="images/2016_mx_downtown_mural.jpg" 
     title="Mural in the courtyard of Hotel Downtown" 
-    width="50vw" caption="Mural in the courtyard of Hotel Downtown" %}
+    height="40vh" caption="Mural in the courtyard of Hotel Downtown" %}
 
 At first I was a bit reluctant to not stay in the charming districts of Roma Norte or Condesa, but 
 I now recognize that Downtown is the ideal home base for a first-timer. From here it is most
@@ -47,7 +47,7 @@ We had more than we could consume for about $3.00. We would then grab a coffee a
 breakfast outside among the monumental and inspiring buildings and cathedrals.
 
 {% include image.html img="images/2016_mx_pastelia_ideal.jpg" title="Pastries" 
-    width="50vw" caption="The pastries are to die for" %}
+    height="40vh" caption="The pastries are to die for" %}
 
 It is estimated that there are over 1 million food stands in this city.
 Some street food we enjoyed:
@@ -77,9 +77,9 @@ Carne tostadas are typically recommended here, but I went rogue and instead reli
 Chiles en Nogada and my gal enjoyed a magnificently flavored sopa.
 
 {% include image.html img="images/2016_mx_dayofdead.jpg" title="Ash and dia de los muertos" 
-    width="40vw" caption="Ash downtown during Dia de los Muertos" %}
+    height="40vh" caption="Ash downtown during Dia de los Muertos" %}
 {% include image.html img="images/2016_mx_chapultepec.jpg" title="Chapultepec" 
-    width="40vw" caption="At Chapultepec castle" %}
+    height="40vh" caption="At Chapultepec castle" %}
 
 Mexico City is beautiful, exciting, and has so much to offer. I have spent considerable time at 
 playas en Mexico, but the capitol is unlike the rest of the country, especially the beach resorts 
