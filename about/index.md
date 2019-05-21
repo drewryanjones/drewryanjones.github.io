@@ -19,38 +19,11 @@ I grew up in the very small town of
 This rural setting has incredible clear skies; the 
 ever present broad brush stroke of the Milky Way, perhaps 
 inspired my fascination with space and the enigmatic concept of
-the infinite. I began my formal education at
+the infinite. I did my undergradte studies at 
 <a href="http://www.asu.edu">Arizona State University</a> (ASU).
-And it was a Freshman year dormitory where I met 
-my future wife Ashlee, with whom I would share my life and passions.
-To this day, ASU is the origin for many of my closest personal 
-friendships.</p>
-</div>
-<div>
-<p>
-{% include image.html img="images/wedding.jpg" title="Wedding Picture" width="80%" caption="Our Wedding" %}
+I received a master degree and a PhD from the  
+<a href="http://www.utexas.edu">University of Texas at Austin</a>. 
+Immediately after school I joined the Mission Design and Navigation Section 
+at JPL where I have been ever since!
 </p>
-</div>
-
-<div>
-<p>
-Graduate studies brought me to the 
-<a href="http://www.utexas.edu">University of Texas at Austin</a>. Austin is 
-quite possibly the coolest city in America. We sure enjoyed our time 
-there, it is a lively and awesome place to call home. 
-Ash and I returned to Arizona in 2013, to be married among friends and 
-family.</p>
-<p>
-Currently, we live in the Los Angeles, California area with our two micro-mini golden-doodles.
-They are like the Austin, TX of dog breeds. We love them as our children, 
-and enjoy taking them on outdoor adventures. 
-Ash and I share a passion for world exploration, via travel. 
-Here is a sampling of <a href="/travel">places we have been</a>.
-</p>
-</div>
-<div>
-{% include image.html img="images/sparky.jpg" title="Sparky" width="75%" caption="Sparky" %}
-</div>
-<div>
-{% include image.html img="images/harvey.jpg" title="Harvey" width="62%" caption="Harvey" %}
 </div>
