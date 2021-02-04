@@ -19,7 +19,7 @@ I grew up in the very small town of
 This rural setting has incredible clear skies; the 
 ever present broad brush stroke of the Milky Way, perhaps 
 inspired my fascination with space and the enigmatic concept of
-the infinite. I did my undergradte studies at 
+the infinite. I did my undergraduate studies at 
 <a href="http://www.asu.edu">Arizona State University</a> (ASU).
 I received a master degree and a PhD from the  
 <a href="http://www.utexas.edu">University of Texas at Austin</a>. 
